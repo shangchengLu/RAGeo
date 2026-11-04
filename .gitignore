@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+env/
+
+# Datasets
+data/
+datasets/
+
+# Weights and checkpoints
+pretrained/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+
+# Experiment outputs
+logs/
+runs/
+outputs/
+work_dirs/
+wandb/
+tensorboard/
+events.out.tfevents.*
+
+# Generated GPS dictionaries
+*.pkl
+
+# Editors and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
