@@ -29,7 +29,7 @@ At inference time, RAGeo retains the original global-descriptor retrieval pipeli
 
 ## Framework
 
-*The framework illustration will be added here.*
+![RAGeo Framework](framework.jpg)
 
 ## Requirements
 
